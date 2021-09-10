@@ -7,9 +7,7 @@
 
 ## 実行方法
 
-- create-react-appで作成しています。ローカルで動作させたい場合は以下の手順で実行してください。
+- create-react-appで作成しています。ローカルで動作させたい場合はクローンしてご利用ください。
+- また、以下のリンクからCodeSandboxで確認することもできます
 
-- GitHubからクローンする
-```bash
-git clone ~
-```
+[https://codesandbox.io/s/react-book-4-react-basic-cxh1x](https://codesandbox.io/s/react-book-4-react-basic-cxh1x)
