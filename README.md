@@ -10,6 +10,7 @@
 - [3章 JavaScriptでのDOM操作](./3/README.md)
 - [4章 Reactの基本](./4/react-basic)
 - [5章 ReactとCSS](./5/react-css)
+- [6章 再レンダリングの仕組みと最適化](./6/re-rendering)
 
 ## ハッシュタグ
 

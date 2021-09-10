@@ -8,6 +8,6 @@
 ## 実行方法
 
 - create-react-appで作成しています。ローカルで動作させたい場合はクローンしてご利用ください。
-- また、以下のリンクからCodeSandboxで確認することもできます(TailwindはCRACOを使用する関係でCodeSandboxで上手く表示されていません)
+- また、以下のリンクからCodeSandboxで確認することもできます
 
-[]()
+[https://codesandbox.io/s/react-book-6-re-rendering-mzodb](https://codesandbox.io/s/react-book-6-re-rendering-mzodb)
