@@ -10,4 +10,4 @@
 - create-react-appで作成しています。ローカルで動作させたい場合はクローンしてご利用ください。
 - また、以下のリンクからCodeSandboxで確認することもできます
 
-[]()
+[https://codesandbox.io/s/react-book-7-global-state-dwh5o](https://codesandbox.io/s/react-book-7-global-state-dwh5o)

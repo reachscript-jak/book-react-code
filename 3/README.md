@@ -7,4 +7,4 @@
 - ローカルで動作させたい場合はクローンしてご利用ください。
 - また、以下のリンクからCodeSandboxで確認することもできます。
 
-[https://codesandbox.io/s/react-book-js-dom-ugtsn](https://codesandbox.io/s/react-book-js-dom-ugtsn)
+[https://codesandbox.io/s/react-book-3-js-dom-ugtsn](https://codesandbox.io/s/react-book-3-js-dom-ugtsn)
