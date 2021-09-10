@@ -1,5 +1,10 @@
 # 3章 JavaScriptでのDOM操作
 
-## 3-3 JavaScriptによるDOM操作の実践
+- 3-3 JavaScriptによるDOM操作の実践 で実装した最終形のソースを配置しています。復習に活用してください。
 
-3-3で実装した簡単メモアプリのコードを格納しています。
+## 確認方法
+
+- ローカルで動作させたい場合はクローンしてご利用ください。
+- また、以下のリンクからCodeSandboxで確認することもできます。
+
+[https://codesandbox.io/s/react-book-js-dom-ugtsn](https://codesandbox.io/s/react-book-js-dom-ugtsn)
