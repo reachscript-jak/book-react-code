@@ -12,6 +12,7 @@
 - [5章 ReactとCSS](./5/react-css)
 - [6章 再レンダリングの仕組みと最適化](./6/re-rendering)
 - [7章 グローバルなState管理](./7/global-state)
+- [8章 ReactとTypeScript](./8/typescript)
 
 ## ハッシュタグ
 
