@@ -25,6 +25,15 @@ Webサイトで「正誤表」をご確認ください。最新の正誤情報�
 
 - 本書サポートページ URL  [https://isbn2.sbcr.jp/10722/](https://isbn2.sbcr.jp/10722/)
 
+## Udemy
+
+Udemyでは２つのReactコースを出しており、動画教材ならではの学習ができます。（コーディングの順番や口頭での補足説明等）
+
+レビューで受講生の感想も見ることができるので、是非以下のリンクよりご覧ください。
+
+[https://freelance-jak.com/react_coupon/](https://freelance-jak.com/react_coupon/)
+
+
 ---
 
 ©2021 Reach Script Inc.  
