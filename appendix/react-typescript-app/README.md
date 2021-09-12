@@ -10,4 +10,4 @@
 - create-react-appで作成しています。ローカルで動作させたい場合はクローンしてご利用ください。
 - また、以下のリンクからCodeSandboxで確認することもできます
 
-[]()
+[https://codesandbox.io/s/react-book-appendix-react-typescript-app-4h6ux](https://codesandbox.io/s/react-book-appendix-react-typescript-app-4h6ux)
