@@ -14,7 +14,7 @@
 - [7章 グローバルなState管理](./7/global-state)
 - [8章 ReactとTypeScript](./8/typescript)
 - [9章 カスタムフック](./9/custom-hooks)
-- [React×TypeScript実践演習](./付録/react-typescript-app)
+- [React×TypeScript実践演習](./appendix/react-typescript-app)
 
 ## ハッシュタグ
 
